@@ -2,7 +2,7 @@
 
 # Run app
 
-1. Git clone: https://github.com/lyolya95/caesar-cipher-cli.git
+1. Clone repo: git clone https://github.com/lyolya95/caesar-cipher-cli.git
 
 2. Go to directory: `cd caesar-cipher-cli`
 
