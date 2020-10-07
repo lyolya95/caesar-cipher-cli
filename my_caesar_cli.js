@@ -6,13 +6,13 @@ const path = require('path');
 const process = require('process');
 const {
   terminalArgs
-} = require('./terminal-command');
+} = require('../caesar-cipher-cli/caesar-cipher-cli/terminal-command');
 const {
   decoder
-} = require('./function');
+} = require('./caesar-cipher-cli/function');
 const {
   errorHandler
-} = require('./errorHandler')
+} = require('./caesar-cipher-cli/errorHandler')
 
 process.stdin.setEncoding('utf8');
 
